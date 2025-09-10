@@ -1,4 +1,4 @@
-package Controle;
+package Encapsulamento;
 
 public class ObjetoControleRemoto {
     public static void main(String[] args) {
